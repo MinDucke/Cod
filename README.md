@@ -1,2 +1,0 @@
-# Cod
-code UI - tiktok
